@@ -1,6 +1,8 @@
 <i class="fa fa-codeforces fa-lg"></i> Codeforces Concepts & Submissions
 ## Codeforces Concepts and Submissions
-
+<div id="header" align="center">
+  <img src="https://store-images.s-microsoft.com/image/apps.48094.14504742535903781.aedbca21-113a-48f4-b001-4204e73b22fc.503f883f-8339-4dc5-8609-81713a59281f" width="100"/>
+</div>
 This repository is for personal use to add concepts and submissions from Codeforces problems and contests.
 
 **Features:**
